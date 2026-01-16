@@ -1,4 +1,4 @@
-# API REST con Laravel - Gestión de Recursos
+# API REST con Laravel - Tierra Media
 
 Este proyecto consiste en el desarrollo de una **API RESTful** utilizando el framework **Laravel 10**. Ha sido diseñado como parte del módulo de Desarrollo Web en Entorno Servidor de **2º de DAW** en el IES Celia Viñas.
 
