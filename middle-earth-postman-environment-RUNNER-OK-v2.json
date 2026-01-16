@@ -1,0 +1,14 @@
+{
+  "id": "ce503b01-ff3f-4e22-b2e1-d8da97004146",
+  "name": "Middle Earth API – Local (Runner OK v2)",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost/api",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-01-11T16:58:34.879516Z",
+  "_postman_exported_using": "ChatGPT"
+}
